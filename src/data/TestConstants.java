@@ -4,7 +4,7 @@ public interface TestConstants {
 	String FILENAME_TEXT = "tests.txt";
 	String FILENAME_BIN = "tests.data";
 	String FIELD_SEP = "\t";
-	String FILENAME_BIN_FIXED = "personsFixed.dat";
+	String FILENAME_BIN_FIXED = "testFixed.dat";
 	int TEST_NAME_SIZE = 25;
 	int MARKS_OBTAINED_SIZE = 8;
 	int TOTAL_MARKS_SIZE = 8;
